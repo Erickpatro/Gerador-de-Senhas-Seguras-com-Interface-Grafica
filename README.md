@@ -18,4 +18,4 @@ java SecurePasswordGenerator
 
 A janela do gerador vai abrir automaticamente 🎉
 
-img.png
+
